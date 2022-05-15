@@ -33,6 +33,10 @@ body {
   justify-content: center;
 }
 
+main {
+  text-align: center;
+}
+
 .container {
   background-color: #fff;
   max-width: 26rem;
@@ -168,10 +172,6 @@ body {
   text-decoration: underline;
 
   font-weight: 900;
-}
-
-.attribution {
-  font-size: 1.2rem;
 }
 
 .attribution a {
